@@ -6,11 +6,11 @@ Archivos GeoJSON con distribución equilibrada entre Geohashes.
 
 ## LICENCIA
 
-Estándar  [ODbL-1.0](http://www.opendefinition.org/licenses/odc-odbl), con evidencia en:
+Estándar  [**ODbL-1.0**](http://www.opendefinition.org/licenses/odc-odbl), con **evidencia en**:
 
 * [www.openstreetmap.org/copyright de 2021-10-12](http://web.archive.org/web/20211012105347/https://www.openstreetmap.org/copyright)
 
-* [arquivo *hash* `f0cbf59`](f0cbf591bda09880dc27cdbfcf4ee45189eb1e2c3742800c066f0b5576d81744.zip)
+* [arquivo *hash* `f0cbf59`](http://dl.digital-guard.org/f0cbf591bda09880dc27cdbfcf4ee45189eb1e2c3742800c066f0b5576d81744.zip)
 
 -------------
 
